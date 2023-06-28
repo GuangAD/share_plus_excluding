@@ -2,7 +2,7 @@
 # To learn more about a Podspec see http://guides.cocoapods.org/syntax/podspec.html
 #
 Pod::Spec.new do |s|
-  s.name             = 'share_plus'
+  s.name             = 'share_plus_excluding'
   s.version          = '0.0.1'
   s.summary          = 'Flutter Share'
   s.description      = <<-DESC
