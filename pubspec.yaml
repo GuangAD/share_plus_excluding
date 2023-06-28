@@ -11,7 +11,8 @@ flutter:
       android:
         package: dev.fluttercommunity.plus.share
         pluginClass: SharePlusPlugin
-
+      ios:
+        pluginClass: FLTSharePlusPlugin
 dependencies:
   cross_file: ^0.3.3+2
   meta: ^1.7.0
