@@ -130,12 +130,12 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.1.3"
-  share_plus_platform_interface:
+  share_plus_excluding_platform_interface:
     dependency: "direct main"
     description:
       path: "."
       ref: HEAD
-      resolved-ref: fdf8544625611f3e2ecc863f1784bc6a15d06e06
+      resolved-ref: "77a2c36733d2e5ae7be1425b16241c92acccb39a"
       url: "https://github.com/GuangAD/share_plus_excluding_platform_interface.git"
     source: git
     version: "3.1.1"

@@ -116,8 +116,8 @@
       "languageVersion": "2.12"
     },
     {
-      "name": "share_plus_platform_interface",
-      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/git/share_plus_excluding_platform_interface-fdf8544625611f3e2ecc863f1784bc6a15d06e06/",
+      "name": "share_plus_excluding_platform_interface",
+      "rootUri": "file:///C:/Users/Administrator/AppData/Local/Pub/Cache/git/share_plus_excluding_platform_interface-77a2c36733d2e5ae7be1425b16241c92acccb39a/",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     },
@@ -176,13 +176,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "share_plus",
+      "name": "share_plus_excluding",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-06-28T08:31:56.344068Z",
+  "generated": "2023-06-28T08:42:12.311942Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }

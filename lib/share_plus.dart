@@ -6,9 +6,10 @@ import 'dart:async';
 import 'dart:ui';
 
 import 'package:cross_file/cross_file.dart';
-import 'package:share_plus_platform_interface/share_plus_platform_interface.dart';
+import 'package:share_plus_excluding_platform_interface/share_plus_platform_interface.dart';
 
-export 'package:share_plus_platform_interface/share_plus_platform_interface.dart' show ShareResult, ShareResultStatus;
+export 'package:share_plus_excluding_platform_interface/share_plus_platform_interface.dart'
+    show ShareResult, ShareResultStatus;
 
 /// Plugin for summoning a platform share sheet.
 class Share {

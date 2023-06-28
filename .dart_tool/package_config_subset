@@ -1,7 +1,7 @@
-share_plus_platform_interface
+share_plus_excluding_platform_interface
 2.12
-file:///C:/Users/Administrator/AppData/Local/Pub/Cache/git/share_plus_excluding_platform_interface-fdf8544625611f3e2ecc863f1784bc6a15d06e06/
-file:///C:/Users/Administrator/AppData/Local/Pub/Cache/git/share_plus_excluding_platform_interface-fdf8544625611f3e2ecc863f1784bc6a15d06e06/lib/
+file:///C:/Users/Administrator/AppData/Local/Pub/Cache/git/share_plus_excluding_platform_interface-77a2c36733d2e5ae7be1425b16241c92acccb39a/
+file:///C:/Users/Administrator/AppData/Local/Pub/Cache/git/share_plus_excluding_platform_interface-77a2c36733d2e5ae7be1425b16241c92acccb39a/lib/
 async
 2.12
 file:///C:/Users/Administrator/AppData/Local/Pub/Cache/hosted/pub.flutter-io.cn/async-2.8.2/
@@ -114,7 +114,7 @@ flutter_test
 2.12
 file:///D:/Program%20Files/flutter/packages/flutter_test/
 file:///D:/Program%20Files/flutter/packages/flutter_test/lib/
-share_plus
+share_plus_excluding
 2.12
 file:///D:/worktest/flutter/share_plus_excluding/
 file:///D:/worktest/flutter/share_plus_excluding/lib/
