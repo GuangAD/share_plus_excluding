@@ -176,13 +176,13 @@
       "languageVersion": "2.14"
     },
     {
-      "name": "share_plus_excluding",
+      "name": "share_plus",
       "rootUri": "../",
       "packageUri": "lib/",
       "languageVersion": "2.12"
     }
   ],
-  "generated": "2023-06-28T09:07:59.306037Z",
+  "generated": "2023-06-28T09:25:26.004875Z",
   "generator": "pub",
   "generatorVersion": "2.16.2"
 }
